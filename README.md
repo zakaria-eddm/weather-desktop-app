@@ -1,4 +1,4 @@
-# 🌤️ Application Météo Desktop
+# Application Météo Desktop
 
 Une application météo desktop moderne développée avec Python et PyQt5.
 
