@@ -1,0 +1,17 @@
+# Fichiers de cache
+weather_cache.json
+icon_cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnements virtuels
+venv/
+env/
+.vscode/
+.idea/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
